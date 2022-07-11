@@ -1,7 +1,7 @@
 # react-start
 Basic configuration of the project using React + Redux + Bootstrap.
 
-![alt text](https://github.com/ivanovm2020/-rest-java-react/tree/main/image/image.jpg)<br>
+![front](https://raw.githubusercontent.com/ivanovm2020/-rest-java-react/main/image/image.jpg)
 
 ### Start project
 - install [java version 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
