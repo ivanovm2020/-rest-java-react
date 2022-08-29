@@ -1,5 +1,5 @@
 # react-start
-Basic configuration of the project using React + Redux + Bootstrap.
+Basic configuration of the project using Spring + React + Redux + Bootstrap.
 
 ![front](https://raw.githubusercontent.com/ivanovm2020/-rest-java-react/main/image/image.jpg)
 
